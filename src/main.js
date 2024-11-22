@@ -1,4 +1,4 @@
-import "./styles/main.scss";
+
 
 const addTodoBtn = document.querySelector(".header__add-todo");
 const todos = document.querySelector(".todos");
